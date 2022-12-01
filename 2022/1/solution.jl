@@ -1,4 +1,4 @@
-input = readlines("1/input.txt") 
+input = readlines("2022/1/input.txt") 
 
 elves = Int[]
 
