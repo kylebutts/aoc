@@ -1,4 +1,3 @@
-using StructArrays
 input = readlines("2022/2/input.txt")
 
 input = vcat(input...)
